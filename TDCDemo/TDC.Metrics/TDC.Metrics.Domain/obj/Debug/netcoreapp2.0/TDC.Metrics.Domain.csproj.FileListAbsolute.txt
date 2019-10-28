@@ -1,0 +1,8 @@
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\bin\Debug\netcoreapp2.0\TDC.Metrics.Domain.deps.json
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\bin\Debug\netcoreapp2.0\TDC.Metrics.Domain.dll
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\bin\Debug\netcoreapp2.0\TDC.Metrics.Domain.pdb
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\obj\Debug\netcoreapp2.0\TDC.Metrics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\obj\Debug\netcoreapp2.0\TDC.Metrics.Domain.AssemblyInfoInputs.cache
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\obj\Debug\netcoreapp2.0\TDC.Metrics.Domain.AssemblyInfo.cs
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\obj\Debug\netcoreapp2.0\TDC.Metrics.Domain.dll
+C:\Users\U002647\Downloads\TDCDemo\TDCDemo\TDC.Metrics\TDC.Metrics.Domain\obj\Debug\netcoreapp2.0\TDC.Metrics.Domain.pdb
